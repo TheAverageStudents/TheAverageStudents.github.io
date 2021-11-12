@@ -1,0 +1,62 @@
+#topbar{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    padding-left: 1%;
+    margin-left: -1%;
+}
+
+#ThemeButton{
+    height: 40px;
+    width: 8%;
+    margin-top: 20px;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+#HomeButton{
+    height: 40px;
+    width: 8%;
+    margin-top: 20px;
+    margin-left: 50%;
+    border-radius: 10px;
+}
+
+#coverup{
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+    font-size: 30px;
+    margin-top: -1%;
+}
+
+#Sec1{
+    height: 100%;
+}
+
+#Picture1{
+    width: 40%;
+}
+
+#FeedbackButton{
+    text-decoration: wavy;
+    height: 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #9818c0, #e2645b);
+}
+
+footer {
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+html{
+    width: 100%;
+    height: 100%;
+}
